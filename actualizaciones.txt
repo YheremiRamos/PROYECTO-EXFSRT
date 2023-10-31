@@ -1,0 +1,16 @@
+Falta actualizar la pagina del Home page, 
+recuerda agregar una funcionalidad 
+cuando al momento de dar click a un alumno 
+mostrara un video de yt con sus palabras y tambien mostrara sus fotos y datos en
+concreto.
+para los profesores no habra nada solo fotos  
+y para la profesora habra videos cuando se de click le mostrara un video 
+que reprodusca algo sobre la profesora en youtube,
+
+-----------------------------------------
+NUEVA PAGINA
+La pagina tratara sobre los mejores mangas que he leido
+asi como los mejores animes y algunos consejos para un otaku 
+joven de 17 años  
+
+
